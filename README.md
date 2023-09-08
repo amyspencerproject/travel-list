@@ -24,6 +24,8 @@ This little app is one of the challenges in a Udemy course "Ulitmate React Cours
 
   ```
 
+- In VS Code you can make a new component file easily by selecting the Component you want, right clicking, selecting Refactor and Make a new file. This creates the new file with the necessary imports like useState, etc. Then it also adds the import of the new file to the top of the current file.
+
 ### Useful resources
 
 -
